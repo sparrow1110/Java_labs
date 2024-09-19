@@ -1,0 +1,6 @@
+cd C:\Users\User\IdeaProjects\Java_lab1
+javac -d .\out\ -sourcepath .\src\ .\src\com\example\Main.java
+cd out
+java com.example.Main
+cd ..
+javadoc -d doc -sourcepath src -subpackages com

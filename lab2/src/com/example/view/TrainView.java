@@ -7,7 +7,7 @@ import com.example.model.Wagon;
 
 public class TrainView {
     public void displayTrain(Train train) {
-        System.out.println("Состав поезда:");
+        System.out.println("Состав поезда: ");
         for (Wagon wagon : train.getWagons()) {
             System.out.println(wagon.getType());
         }

@@ -1,7 +1,15 @@
 package com.example.model;
 
+/**
+ * Класс для контейнеров.
+ */
 public class Container extends Product {
-    public Container(String name) {
-        super(name);
+    /**
+     * Конструктор для создания контейнера.
+     * @param name Название контейнера.
+     * @param weight Вес контейнера.
+     */
+    public Container(String name, double weight) {
+        super(name, weight);
     }
 }

@@ -1,6 +1,6 @@
-cd C:\Users\User\IdeaProjects\Java_lab1
-javac -d .\out\ -sourcepath .\src\ .\src\com\example\Main.java
+cd C:\Users\User\IdeaProjects\Java_labs\lab2
+javac -d .\out\ -sourcepath .\src\ .\src\com\example\controller\Main.java
 cd out
-java com.example.Main
+java com.example.controller.Main
 cd ..
 javadoc -d doc -sourcepath src -subpackages com

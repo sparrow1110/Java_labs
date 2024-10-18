@@ -53,11 +53,11 @@ public class Train {
             if (wagon.canLoad(product) && !wagon.isLoaded() && wagon.getCapacity() >= product.getWeight()) {
 
                 wagon.setLoaded(true);
-                System.out.println("Загрузили " + product.getName() + " в " + wagon.getType());
+                // System.out.println("Загрузили " + product.getName() + " в " + wagon.getType());
                 return product;
             }
         }
-        System.out.println("Нет подоходящего вагона для" + product.getName());
+        // System.out.println("Нет подоходящего вагона для" + product.getName());
         return null;
     }
 }

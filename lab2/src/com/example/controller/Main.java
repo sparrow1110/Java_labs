@@ -6,7 +6,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Основной класс программы, выполняющий роль контроллера.
+ * Основной класс программы, в
+ * ыполняющий роль контроллера.
  */
 public class Main {
     private Train train;

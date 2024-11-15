@@ -1,0 +1,420 @@
+Start program: 2024-11-15 13:15:52.139222700 
+ArrayList
+add, ID = 1, 6200
+add, ID = 2, 1200
+add, ID = 3, 400
+add, ID = 4, 400
+add, ID = 5, 300
+add, ID = 6, 500
+add, ID = 7, 300
+add, ID = 8, 300
+add, ID = 9, 300
+add, ID = 10, 300
+AddTotalCount = 10
+AddTotalTime = 10200
+AddMedianTime = 1020
+remove, ID = 8, 11500
+RemoveTotalCount = 1
+RemoveTotalTime = 11500
+RemoveMedianTime = 11500
+Finish program: 2024-11-15 13:15:52.169222800 
+
+Start program: 2024-11-15 13:16:57.051254800 
+ArrayList
+add, ID = 1, 5800
+add, ID = 2, 2400
+add, ID = 3, 400
+add, ID = 4, 300
+add, ID = 5, 300
+add, ID = 6, 300
+add, ID = 7, 400
+add, ID = 8, 500
+add, ID = 9, 300
+add, ID = 10, 300
+AddTotalCount = 10
+AddTotalTime = 11000
+AddMedianTime = 1100
+remove, ID = 3, 11300
+RemoveTotalCount = 1
+RemoveTotalTime = 11300
+RemoveMedianTime = 11300
+Finish program: 2024-11-15 13:16:57.081254800 
+
+Start program: 2024-11-15 13:19:44.684749300 
+ArrayList
+add, ID = 1, 8000
+add, ID = 2, 1100
+add, ID = 3, 300
+add, ID = 4, 500
+add, ID = 5, 300
+add, ID = 6, 200
+add, ID = 7, 300
+add, ID = 8, 300
+add, ID = 9, 400
+add, ID = 10, 400
+AddTotalCount = 10
+AddTotalTime = 11800
+AddMedianTime = 1180
+remove, ID = 9, 12100
+RemoveTotalCount = 1
+RemoveTotalTime = 12100
+RemoveMedianTime = 12100
+Finish program: 2024-11-15 13:19:44.714749600 
+
+Start program: 2024-11-15 14:03:54.197748 
+ArrayList
+add, ID = 1, 6300
+add, ID = 2, 900
+add, ID = 3, 400
+add, ID = 4, 300
+add, ID = 5, 300
+add, ID = 6, 300
+add, ID = 7, 400
+add, ID = 8, 300
+add, ID = 9, 200
+add, ID = 10, 400
+AddTotalCount = 10
+AddTotalTime = 9800
+AddMedianTime = 980
+remove, ID = 4, 12900
+RemoveTotalCount = 1
+RemoveTotalTime = 12900
+RemoveMedianTime = 12900
+Finish program: 2024-11-15 14:03:54.228300600 
+
+Start program: 2024-11-15 18:48:42.093555200 
+ArrayList
+add, ID = 1, 7200
+add, ID = 2, 1100
+add, ID = 3, 300
+add, ID = 4, 300
+add, ID = 5, 300
+add, ID = 6, 400
+add, ID = 7, 300
+add, ID = 8, 300
+add, ID = 9, 400
+add, ID = 10, 300
+AddTotalCount = 10
+AddTotalTime = 10900
+AddMedianTime = 1090
+remove, ID = 7, 11900
+RemoveTotalCount = 1
+RemoveTotalTime = 11900
+RemoveMedianTime = 11900
+Finish program: 2024-11-15 18:48:42.121553900 
+
+Start program: 2024-11-15 18:50:50.163528600 
+ArrayList
+add, ID = 1, 5300
+add, ID = 2, 500
+add, ID = 3, 600
+add, ID = 4, 300
+add, ID = 5, 500
+add, ID = 6, 400
+add, ID = 7, 700
+add, ID = 8, 600
+add, ID = 9, 400
+add, ID = 10, 600
+AddTotalCount = 10
+AddTotalTime = 9900
+AddMedianTime = 990
+remove, ID = 3, 4600
+RemoveTotalCount = 1
+RemoveTotalTime = 4600
+RemoveMedianTime = 4600
+Finish program: 2024-11-15 18:50:50.167532900 
+
+Start program: 2024-11-15 18:51:56.274507600 
+ArrayList
+add, ID = 1, 4600
+add, ID = 2, 1100
+add, ID = 3, 400
+add, ID = 4, 300
+add, ID = 5, 400
+add, ID = 6, 400
+add, ID = 7, 500
+add, ID = 8, 700
+add, ID = 9, 300
+add, ID = 10, 500
+AddTotalCount = 10
+AddTotalTime = 9200
+AddMedianTime = 920
+remove, ID = 3, 12300
+RemoveTotalCount = 1
+RemoveTotalTime = 12300
+RemoveMedianTime = 12300
+Finish program: 2024-11-15 18:51:56.306423600 
+
+Start program: 2024-11-15 19:07:53.260770 
+ArrayList
+add, ID = 1, 7100
+add, ID = 2, 1200
+add, ID = 3, 400
+add, ID = 4, 300
+add, ID = 5, 300
+add, ID = 6, 2500
+add, ID = 7, 300
+add, ID = 8, 500
+add, ID = 9, 300
+add, ID = 10, 400
+AddTotalCount = 10
+AddTotalTime = 13300
+AddMedianTime = 1330
+remove, ID = 9, 17000
+RemoveTotalCount = 1
+RemoveTotalTime = 17000
+RemoveMedianTime = 17000
+Finish program: 2024-11-15 19:07:53.300895200 
+
+Start program: 2024-11-15 19:13:19.692023400 
+ArrayList
+add, ID = 1, 7600
+add, ID = 2, 1100
+add, ID = 3, 300
+add, ID = 4, 300
+add, ID = 5, 300
+add, ID = 6, 300
+add, ID = 7, 400
+add, ID = 8, 300
+add, ID = 9, 400
+add, ID = 10, 300
+AddTotalCount = 10
+AddTotalTime = 11300
+AddMedianTime = 1130
+remove, ID = 9, 10900
+RemoveTotalCount = 1
+RemoveTotalTime = 10900
+RemoveMedianTime = 10900
+Finish program: 2024-11-15 19:13:19.722023900 
+
+Start program: 2024-11-15 19:19:36.923169900 
+ArrayList
+add, ID = 1, 6300
+add, ID = 2, 1200
+add, ID = 3, 400
+add, ID = 4, 400
+add, ID = 5, 300
+add, ID = 6, 200
+add, ID = 7, 300
+add, ID = 8, 300
+add, ID = 9, 300
+add, ID = 10, 400
+AddTotalCount = 10
+AddTotalTime = 10100
+AddMedianTime = 1010
+remove, ID = 7, 12000
+RemoveTotalCount = 1
+RemoveTotalTime = 12000
+RemoveMedianTime = 12000
+Finish program: 2024-11-15 19:19:36.953668400 
+
+Start program: 2024-11-15 19:22:17.901486 
+ArrayList
+add, ID = 1, 6100
+add, ID = 2, 1300
+add, ID = 3, 600
+add, ID = 4, 400
+add, ID = 5, 300
+add, ID = 6, 400
+add, ID = 7, 1100
+add, ID = 8, 800
+add, ID = 9, 400
+add, ID = 10, 300
+AddTotalCount = 10
+AddTotalTime = 11700
+AddMedianTime = 1170
+remove, ID = 3, 14300
+RemoveTotalCount = 1
+RemoveTotalTime = 14300
+RemoveMedianTime = 14300
+Finish program: 2024-11-15 19:22:17.942386300 
+
+Start program: 2024-11-15 19:25:51.365597700 
+ArrayList
+add, ID = 1, 7000
+add, ID = 2, 1200
+add, ID = 3, 400
+add, ID = 4, 300
+add, ID = 5, 300
+add, ID = 6, 400
+add, ID = 7, 300
+add, ID = 8, 300
+add, ID = 9, 400
+add, ID = 10, 300
+AddTotalCount = 10
+AddTotalTime = 10900
+AddMedianTime = 1090
+remove, ID = 6, 11800
+RemoveTotalCount = 1
+RemoveTotalTime = 11800
+RemoveMedianTime = 11800
+Finish program: 2024-11-15 19:25:51.405597600 
+
+Start program: 2024-11-15 19:28:39.223367800 
+ArrayList
+add, ID = 1, 7200
+add, ID = 2, 1000
+add, ID = 3, 400
+add, ID = 4, 300
+add, ID = 5, 400
+add, ID = 6, 300
+add, ID = 7, 300
+add, ID = 8, 600
+add, ID = 9, 300
+add, ID = 10, 300
+AddTotalCount = 10
+AddTotalTime = 11100
+AddMedianTime = 1110
+remove, ID = 2, 11700
+RemoveTotalCount = 1
+RemoveTotalTime = 11700
+RemoveMedianTime = 11700
+Finish program: 2024-11-15 19:28:39.253367200 
+
+Start program: 2024-11-15 19:32:38.559145900 
+ArrayList
+add, ID = 1, 5700
+add, ID = 2, 1300
+add, ID = 3, 500
+add, ID = 4, 300
+add, ID = 5, 400
+add, ID = 6, 200
+add, ID = 7, 400
+add, ID = 8, 300
+add, ID = 9, 400
+add, ID = 10, 300
+AddTotalCount = 10
+AddTotalTime = 9800
+AddMedianTime = 980
+remove, ID = 6, 12900
+RemoveTotalCount = 1
+RemoveTotalTime = 12900
+RemoveMedianTime = 12900
+Finish program: 2024-11-15 19:32:38.599145600 
+
+Start program: 2024-11-15 19:41:13.844010600 
+ArrayList
+add, ID = 1, 6500
+add, ID = 2, 1200
+add, ID = 3, 400
+add, ID = 4, 400
+add, ID = 5, 400
+add, ID = 6, 400
+add, ID = 7, 400
+add, ID = 8, 600
+add, ID = 9, 400
+add, ID = 10, 500
+AddTotalCount = 10
+AddTotalTime = 11200
+AddMedianTime = 1120
+remove, ID = 6, 19100
+RemoveTotalCount = 1
+RemoveTotalTime = 19100
+RemoveMedianTime = 19100
+Finish program: 2024-11-15 19:41:13.874010600 
+
+Start program: 2024-11-15 19:42:53.141121100 
+ArrayList
+add, ID = 1, 7400
+add, ID = 2, 1000
+add, ID = 3, 900
+add, ID = 4, 400
+add, ID = 5, 400
+add, ID = 6, 300
+add, ID = 7, 400
+add, ID = 8, 400
+add, ID = 9, 300
+add, ID = 10, 300
+AddTotalCount = 10
+AddTotalTime = 11800
+AddMedianTime = 1180
+remove, ID = 6, 20200
+RemoveTotalCount = 1
+RemoveTotalTime = 20200
+RemoveMedianTime = 20200
+Finish program: 2024-11-15 19:42:53.171122200 
+
+Start program: 2024-11-15 19:46:25.552459900 
+ArrayList
+add, ID = 1, 7100
+add, ID = 2, 800
+add, ID = 3, 300
+add, ID = 4, 400
+add, ID = 5, 300
+add, ID = 6, 300
+add, ID = 7, 300
+add, ID = 8, 300
+add, ID = 9, 300
+add, ID = 10, 400
+AddTotalCount = 10
+AddTotalTime = 10500
+AddMedianTime = 1050
+remove, ID = 3, 11400
+RemoveTotalCount = 1
+RemoveTotalTime = 11400
+RemoveMedianTime = 11400
+Finish program: 2024-11-15 19:46:25.582444800 
+
+Start program: 2024-11-15 19:50:44.869864300 
+ArrayList
+add, ID = 1, 7200
+add, ID = 2, 1000
+add, ID = 3, 400
+add, ID = 4, 400
+add, ID = 5, 400
+add, ID = 6, 300
+add, ID = 7, 900
+add, ID = 8, 700
+add, ID = 9, 500
+add, ID = 10, 300
+AddTotalCount = 10
+AddTotalTime = 12100
+AddMedianTime = 1210
+remove, ID = 2, 12300
+RemoveTotalCount = 1
+RemoveTotalTime = 12300
+RemoveMedianTime = 12300
+Finish program: 2024-11-15 19:50:44.909863900 
+
+Start program: 2024-11-15 19:58:28.774531300 
+ArrayList
+add, ID = 1, 6200
+add, ID = 2, 1200
+add, ID = 3, 400
+add, ID = 4, 300
+add, ID = 5, 200
+add, ID = 6, 300
+add, ID = 7, 300
+add, ID = 8, 300
+add, ID = 9, 300
+add, ID = 10, 300
+AddTotalCount = 10
+AddTotalTime = 9800
+AddMedianTime = 980
+remove, ID = 5, 11000
+RemoveTotalCount = 1
+RemoveTotalTime = 11000
+RemoveMedianTime = 11000
+Finish program: 2024-11-15 19:58:28.804532500 
+
+Start program: 2024-11-15 20:05:58.783901900 
+ArrayList
+add, ID = 1, 7100
+add, ID = 2, 1300
+add, ID = 3, 600
+add, ID = 4, 300
+add, ID = 5, 200
+add, ID = 6, 200
+add, ID = 7, 500
+add, ID = 8, 500
+add, ID = 9, 300
+add, ID = 10, 300
+AddTotalCount = 10
+AddTotalTime = 11300
+AddMedianTime = 1130
+remove, ID = 4, 13300
+RemoveTotalCount = 1
+RemoveTotalTime = 13300
+RemoveMedianTime = 13300
+Finish program: 2024-11-15 20:05:58.813901700 
+

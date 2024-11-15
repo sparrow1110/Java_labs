@@ -1,0 +1,17 @@
+userName0=delilar
+password0=1111
+root0=true
+log0=false
+autotest0=true
+
+userName1=Vlad
+password1=123456
+root1=false
+log1=false
+autotest1=true
+
+userName2=Stas
+password2=1234
+root2=true
+log2=false
+autotest2=false

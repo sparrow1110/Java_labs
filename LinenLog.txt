@@ -418,3 +418,24 @@ RemoveTotalTime = 13300
 RemoveMedianTime = 13300
 Finish program: 2024-11-15 20:05:58.813901700 
 
+Start program: 2024-11-16 00:13:13.590722900 
+ArrayList
+add, ID = 1, 7100
+add, ID = 2, 1400
+add, ID = 3, 900
+add, ID = 4, 400
+add, ID = 5, 400
+add, ID = 6, 400
+add, ID = 7, 300
+add, ID = 8, 500
+add, ID = 9, 600
+add, ID = 10, 400
+AddTotalCount = 10
+AddTotalTime = 12400
+AddMedianTime = 1240
+remove, ID = 1, 11400
+RemoveTotalCount = 1
+RemoveTotalTime = 11400
+RemoveMedianTime = 11400
+Finish program: 2024-11-16 00:13:13.636600900 
+
